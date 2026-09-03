@@ -114,14 +114,7 @@
 
 <h3 align="left">📊 GitHub Statistics</h3>
 
-<p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api?username=mh-emon-mern&show_icons=true&locale=en"
-alt="GitHub Stats"
-/>
-
-</p>
 
 <p align="center">
 
@@ -132,14 +125,7 @@ alt="GitHub Streak"
 
 </p>
 
-<p align="center">
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs?username=mh-emon-mern&show_icons=true&locale=en&layout=compact"
-alt="Top Languages"
-/>
-
-</p>
 
 ---
 
