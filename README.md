@@ -14,7 +14,7 @@
 
 * 🔭 I'm currently working on **Full Stack Web Applications and Personal Projects**
 
-* 🌱 I'm currently learning and improving my skills in **React.js, Next.js, Node.js, PostgreSQL, Prisma, and System Design**
+* 🌱 I'm currently learning and improving my skills in **React.js, Next.js, Node.js**
 
 * 👯 I'm looking to collaborate on **Open Source MERN Stack and React Projects**
 
